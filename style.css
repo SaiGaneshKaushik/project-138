@@ -1,0 +1,22 @@
+.title{
+width: 100%;
+margin-top: 0;
+background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+ }
+.title h2{
+display: inline;
+ }
+.title button{
+float: right;
+border: 1px solid white;
+background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.mario_img{
+ width: 100%;
+}
+ #start, #status{
+font-size: 20px;
+ }
+ #status{
+  font-size: 20px;
+ }
